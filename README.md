@@ -1,4 +1,4 @@
-# Orbyn Lead Qualifier Bot 🤖
+# Orbyn Lead Qualifier Bot
 > Agente de cualificación de leads conectado a Telegram con logging en Google Sheets.
 
 ## ¿Qué hace?
