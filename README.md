@@ -24,6 +24,3 @@ de Orbyn usando un LLM, responde con la decisión y loguea todo en Google Sheets
 2. Rellena las variables de config con tus credenciales
 3. Añade tu credentials.json de Google Service Account
 4. Comparte tu Google Sheet con el email de la service account
-
-## Demo
-Bot activo: @orbyn_leadsq_bot
